@@ -6,3 +6,4 @@ logs
 .project
 .classpath
 /config/
+dependency-reduced-pom.xml
